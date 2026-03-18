@@ -37,6 +37,14 @@ fMRI responses (THINGS-fMRI)          CNN/Transformer activations
 
 ViT-B/16 matches early visual cortex better (V1–V4); ResNet-50 matches higher areas better (LOC, IT). CLIP does not improve over ResNet in semantically-sensitive regions, suggesting isolated object perception is driven more by visual structure than language-grounded concepts.
 
+<img width="1874" height="1296" alt="rsa_results" src="https://github.com/user-attachments/assets/ff6ea898-85b7-419b-a3a3-7c7310c491c5" />
+
+<img width="2627" height="711" alt="rsa_compare_heatmap" src="https://github.com/user-attachments/assets/75d41982-43ab-41f4-bbbe-970aacdfd6e5" />
+
+
+<img width="1425" height="584" alt="rsa_compare_bar" src="https://github.com/user-attachments/assets/76226b09-5116-467a-88cb-2d48df510530" />
+
+
 ## Models
 
 | Model | Architecture | Training | Layers extracted |
